@@ -1,6 +1,7 @@
-- 👋 Hey, I’m @ElectroCubic
-- 👀 I’m interested in Game Development and Digital Music Composition
-- 🌱 I’m currently learning to make games using PyGame and Godot game engine
+- 👋 Hey, I’m @ElectroCubic :)
+- ✨ I’m an aspiring Game Developer and Music Composer
+- 👀 I’m highly interested in Game Development and Digital Music Composition using DAWs
+- 🌱 I’m currently learning to make games using Godot game engine and PyGame
 
 <!---
 ElectroCubic/ElectroCubic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
