@@ -1,5 +1,5 @@
 - 👋 Hey, I’m @ElectroCubic :)
-- ✨ I’m an aspiring Game Developer.
+- ✨ I’m a Game Developer and a beginner Music Composer.
 - 👀 I’m highly interested in Game Development and Digital Music Composition using DAWs.
 - 🌱 I’m currently learning to make 2D/3D games using Godot and Unity game engine.
 <!---
