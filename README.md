@@ -1,4 +1,4 @@
-# Hi, I'm ElectroCubic 👋
+# 👋 Hey there, I'm Anush!
 
 I’m a CS student exploring software engineering and game development through hands-on projects. <br>
 I’ve worked with Unity, Godot, and general-purpose programming languages to build small applications and interactive prototypes. <br>
