@@ -1,8 +1,8 @@
 # Hi, I'm ElectroCubic 👋
 
-I’m a CS student exploring software engineering and game development through hands-on projects.
-I’ve worked with Unity, Godot, and general-purpose programming languages to build small applications and interactive prototypes.
-I’m continuously learning and refining my understanding of data structures, algorithms, and software design principles.
+I’m a CS student exploring software engineering and game development through hands-on projects. <br>
+I’ve worked with Unity, Godot, and general-purpose programming languages to build small applications and interactive prototypes. <br>
+I’m continuously learning and refining my understanding of data structures, algorithms, and software design principles. <br>
 
 ## Technical Skills and Interests
 
