@@ -1,9 +1,27 @@
-- 👋 Hey, I’m @ElectroCubic :)
-- ✨ I’m a Game Developer and a beginner Music Composer.
-- 👀 I’m highly interested in Game Development and Digital Music Composition using DAWs.
-- 🌱 I’m currently learning to make 2D/3D games using Godot and Unity game engine.
-<!---
-ElectroCubic/ElectroCubic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm ElectroCubic 👋
+
+I’m a CS student exploring software engineering and game development through hands-on projects.
+I’ve worked with Unity, Godot, and general-purpose programming languages to build small applications and interactive prototypes.
+I’m continuously learning and refining my understanding of data structures, algorithms, and software design principles.
+
+## Technical Skills and Interests
+
+### Languages
+Python, JavaScript, C#, C/C++, GDScript
+
+### Engines & Tools
+Unity, Godot, VS Code, Aseprite, FL Studio, Blender
+
+### Web & Other Technologies
+HTML, CSS, React, Git, GitHub, Figma, Linux
+
+### Core Concepts
+Object-Oriented Programming (OOP)  
+Data Structures and Algorithms  
+Software Design Principles  
+Gameplay Programming & System Architecture  
+
+### Interests
+Gaming, Digital Music Composition, Sci-Fi 
+<br><br>
 [![An image of @electrocubic's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/electrocubic)](https://holopin.io/@electrocubic)
